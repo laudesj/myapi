@@ -2,6 +2,7 @@
 ```
 git clone https://github.com/laudesj/myapi
 cd myapi
+npm install
 nodemon
 ```
 
